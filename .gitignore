@@ -15,4 +15,5 @@ Homestead.json
 .env.*.php
 .env.php
 /.idea
+/.idea/workspace.xml
 public/images/avatar/
